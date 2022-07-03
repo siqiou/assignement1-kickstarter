@@ -9,11 +9,11 @@ The purpose of this project is to help Louise find out the outcomes of Crowdfund
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes_vs_Goals.png](assignement1-kickstarter/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals.png](/Theater_Outcomes_vs_Launch.png)
 The highest number of Theatre projects were launched between May and July, the projects were mostly likely to be successful in May and June. Number of failed projects spread out evenly throughout the year, January had the most number of cancled projects.
 
 ### Analysis of Outcomes Based on Goals
-![Theater_Outcomes_vs_Launch.png](assignement1-kickstarter/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch.png](/Outcomes_vs_Goals.png)
 There are total 1046 projects in the palys subcategory, almost half of projects had goal between 1000 to 4999. 
 By looking at the precentages, the higher the goal, the higher the percentage failed. Successful projects are mostly in the range of less than 1000 and 1000 to 4999, with 76% and 73% among all projects. There are 2 67% succesfuls in the higher range of goals, 35000 to 39999 and 40000 to 49999, but the total projects are too small, we cannot rely on this data.
 
